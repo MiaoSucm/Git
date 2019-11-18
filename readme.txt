@@ -1,1 +1,1 @@
-from tanting
+Git is a free and opensource software.
